@@ -15,17 +15,10 @@ import { Button } from "@/components/ui/button";
 import { ImageCarousel } from "@/components/image-carousel";
 import { ContactForm } from "@/components/contact-form";
 import { Toaster } from "sonner";
-import Head from "next/head";
 
 export default function LandingPage() {
   return (
     <div className="flex min-h-screen flex-col">
-      <Head>
-        <meta
-          name="google-site-verification"
-          content="KNjXPmEN1xuVpfBAC0d_UXxRCLxE75o7C86cVVqK5qo"
-        />
-      </Head>
       <header className="sticky top-0 z-40 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
         <div className="container flex h-16 items-center space-x-4 sm:justify-between sm:space-x-0">
           <div className="flex gap-6 md:gap-10">

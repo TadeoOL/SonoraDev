@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     title: "SonoraDevelopment - Soluciones de Software Innovadoras",
     description:
       "Desarrollamos software a medida, chatbots de WhatsApp, landing pages y soluciones tecnológicas para impulsar tu negocio en Sonora, México.",
-    url: "https://sonoradev.com",
+    url: "https://sonora-dev.vercel.app",
     siteName: "SonoraDevelopment",
     locale: "es_MX",
     type: "website",
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     follow: true,
   },
   verification: {
-    google: "tu-código-de-verificación-de-google",
+    google: "KNjXPmEN1xuVpfBAC0d_UXxRCLxE75o7C86cVVqK5qo",
   },
 };
 
@@ -84,5 +84,3 @@ export default function RootLayout({
     </html>
   );
 }
-
-import "./globals.css";
