@@ -23,7 +23,7 @@ export default function LandingPage() {
       <Head>
         <meta
           name="google-site-verification"
-          content="TsLZju-MkOQKG2nCDM3vOiTR5ILbZm5_2ST7QT4vOkM"
+          content="KNjXPmEN1xuVpfBAC0d_UXxRCLxE75o7C86cVVqK5qo"
         />
       </Head>
       <header className="sticky top-0 z-40 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
