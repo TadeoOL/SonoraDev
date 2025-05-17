@@ -10,14 +10,14 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "SonoraDevelopment - Soluciones de Software Innovadoras",
   description:
-    "Desarrollamos software a medida, chatbots de WhatsApp, landing pages y soluciones tecnológicas para impulsar tu negocio en Sonora, México.",
+    "Desarrollamos software a medida, chatbots de WhatsApp, landing pages y soluciones tecnológicas para impulsar tu negocio en Hermosillo, Sonora, México.",
   keywords:
     "desarrollo de software, chatbots WhatsApp, landing pages, consultoría IT, Sonora, México",
   authors: [{ name: "SonoraDevelopment" }],
   openGraph: {
     title: "SonoraDevelopment - Soluciones de Software Innovadoras",
     description:
-      "Desarrollamos software a medida, chatbots de WhatsApp, landing pages y soluciones tecnológicas para impulsar tu negocio en Sonora, México.",
+      "Desarrollamos software a medida, chatbots de WhatsApp, landing pages y soluciones tecnológicas para impulsar tu negocio en Hermosillo, Sonora, México.",
     url: "https://sonora-dev.vercel.app",
     siteName: "SonoraDevelopment",
     locale: "es_MX",
@@ -44,7 +44,7 @@ const jsonLd = {
     priceCurrency: "MXN",
   },
   description:
-    "Desarrollamos software a medida, chatbots de WhatsApp, landing pages y soluciones tecnológicas para impulsar tu negocio en Sonora, México.",
+    "Desarrollamos software a medida, chatbots de WhatsApp, landing pages y soluciones tecnológicas para impulsar tu negocio en Hermosillo, Sonora, México.",
   provider: {
     "@type": "Organization",
     name: "SonoraDevelopment",
